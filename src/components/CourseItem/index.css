@@ -1,0 +1,8 @@
+.link-ele {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 20px;
+}
